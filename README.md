@@ -128,15 +128,26 @@ Hour of worst AQI	17:00
 Plots
 
 pm2_5_hist.png → PM2.5 distribution
+
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/77934742-61eb-4a67-9c0f-ff7de9efd503" />
 
+
 risk_flags_per_city.png → Risk classification per city
+
+
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/ce1f6ca1-2847-4ee8-ac3b-e53c391f8800" />
 
+
 hourly_pm2_5_trends.png → Hourly PM2.5 trends
+
+
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/e3ef2b0c-6eca-4a08-8222-5e2c2c8ee12e" />
 
+
 severity_vs_pm2_5.png → Severity vs PM2.5 scatter
+
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/927e96da-3189-4f65-bc29-bb9deaeb76f5" />
 
 
