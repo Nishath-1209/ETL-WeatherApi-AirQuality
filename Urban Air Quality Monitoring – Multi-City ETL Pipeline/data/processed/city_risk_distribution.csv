@@ -1,0 +1,5 @@
+city,risk_flag,count,total,percent
+Bengaluru,High Risk,218,218,100.0
+Delhi,High Risk,218,218,100.0
+Hyderabad,High Risk,114,114,100.0
+Mumbai,High Risk,450,450,100.0
