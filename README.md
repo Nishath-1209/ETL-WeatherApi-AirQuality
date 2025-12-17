@@ -4,7 +4,7 @@
 
 This repository contains two end-to-end ETL pipelines implemented in Python:
 
-Weather Data ETL Pipeline – Hourly weather forecasts for cities like Hyderabad
+Weather Data ETL Pipeline – Hourly weather forecasts for cities like Hyderabad,Delhi,Bengaluru
 
 Urban Air Quality Monitoring ETL Pipeline – Hourly pollutant data for major Indian metro cities
 
