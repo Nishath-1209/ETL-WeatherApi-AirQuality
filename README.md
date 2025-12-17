@@ -65,7 +65,6 @@ daily_avg_temp.png → Daily average temperature trends
 ```
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/ff25f258-8dca-429a-bb64-c62c76de7dc5" />
 
-(You can embed these images for visuals in README)
 
 2️⃣ Urban Air Quality Monitoring – Multi-City ETL Pipeline
 
@@ -153,9 +152,12 @@ severity_vs_pm2_5.png → Severity vs PM2.5 scatter
 
 # Setup environment variables (.env)
 # Weather API
+```
 LAT=17.3850
 LON=78.4867
 FORECAST_DAYS=1
+
+```
 # Supabase
 ```
 SUPABASE_URL=your_supabase_url
